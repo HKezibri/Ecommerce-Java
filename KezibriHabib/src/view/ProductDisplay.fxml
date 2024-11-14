@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ListCell?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" fx:controller="" spacing="20" alignment="CENTER" padding="20">
+    <ListView fx:id="" prefWidth="600" prefHeight="400">
+        <items>
+            <!-- This will be dynamically populated from the controller -->
+        </items>
+    </ListView>
+</VBox>
